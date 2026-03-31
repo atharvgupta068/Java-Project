@@ -63,10 +63,10 @@ https://github.com/user-attachments/assets/07785af5-5f47-4b84-a663-49c16b96aad8
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Bedrock16/Java-Project/blob/main/img/ID_25ASD2346_Front.png" width="300">
+      <img src="https://github.com/atharvgupta068/Java-Project/blob/main/img/ID_25ASD2346_Front.png" width="300">
     </td>
     <td>
-      <img src="https://github.com/Bedrock16/Java-Project/blob/main/img/ID_25ASD2346_Back.png" width="300">
+      <img src="https://github.com/atharvgupta068/Java-Project/blob/main/img/ID_25ASD2346_Back.png" width="300">
     </td>
   </tr>
 </table>
